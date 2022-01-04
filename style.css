@@ -8,6 +8,7 @@ h1{
 .name{color:orange;}
 section{
   display: flex;
+  margin-bottom: 150px;
 }
 .helf-width{
 width: 50%;
@@ -27,4 +28,9 @@ padding-left: 5%;
 .toop-banner{
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+}
+.dream-big{
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
